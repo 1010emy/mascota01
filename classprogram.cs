@@ -16,21 +16,19 @@ class program
 	}
 }
 
-void MostrarEdad(string lupe, int edad, int edadHumana, bool años){
+class MostrarEdad(string lupe, int edad, int edadHumana, bool años){
 int edad = 4;
-int edadHumana = 7;
-int (edad * edadHumana);
-bool años = (edad * edadHumana) true; 
+int edadHumana = 7 ;
+bool años = , (edad * edadHumana) true ; 
 
-	Console.WriteLine(lupe + " tiene " + años " años humanos");
-}
+	Console.WriteLine(lupe +, " tiene ", + años " años humanos");
 
-void MostrarEdad(string filogonio, int edad, int edadHumana, bool años);
+
+class MostrarInfo(string filogonio, int edad, int edadHumana, bool años){
 int edad = 9;
-int edadHumana = 7;
-int (edad * edadHumana);
-bool años = (edad * edadHumana) true; 
-{
+int edadHumana = 7 ;
+bool años = , (edad * edadHumana) true ; 
+
 	Console.WriteLine(filogonio + " tiene " + años " años humanos");
 
 }
