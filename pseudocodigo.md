@@ -29,6 +29,10 @@ Definir clase Producto Tarantula
         Asignar ti a tipo
         Asignar son a sonido
 
+    Método calcularEdadHumana()
+        edadHumana = edad * 7
+	Imprimir "Tu mascota tiene [edad] años en edad humana"
+ 
     Método MostrarInformacion()
         Imprimir "Nombre: " + nombre
         Imprimir "Edad: " + edad
