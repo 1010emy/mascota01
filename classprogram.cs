@@ -16,12 +16,12 @@ class program
 	}
 }
 
-void MostrarEdad(string lupe, int edad, int edadHumana, bool años);
+void MostrarEdad(string lupe, int edad, int edadHumana, bool años){
 int edad = 4;
 int edadHumana = 7;
 int (edad * edadHumana);
 bool años = (edad * edadHumana) true; 
-{
+
 	Console.WriteLine(lupe + " tiene " + años " años humanos");
 }
 
