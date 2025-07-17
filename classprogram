@@ -1,0 +1,38 @@
+class program 
+{
+	static void Main(string[] args)
+	{
+		Mascota m = new Mascota("lupe", 3, "iguana");
+		m.MostrarInfo();
+		Console.WriteLine("Edad humana: " + m.CalcularEdadHumana());
+
+		m.SetEdad(4);
+		Console.WriteLine("Edad: " + m.GetEdad());
+
+		Mascota n = new Mascota("filogonio", 3, "gato");
+
+		m.SetEdad(9);
+		Console.WriteLine("Edad: " + m.GetEdad());	
+	}
+}
+
+void MostrarEdad(string lupe, int edad, int edadHumana, bool años);
+int edad = 4;
+int edadHumana = 7;
+int (edad * edadHumana);
+bool años = (edad * edadHumana) true; 
+{
+	Console.WriteLine(lupe + " tiene " + años " años humanos");
+}
+
+void MostrarEdad(string filogonio, int edad, int edadHumana, bool años);
+int edad = 9;
+int edadHumana = 7;
+int (edad * edadHumana);
+bool años = (edad * edadHumana) true; 
+{
+	Console.WriteLine(filogonio + " tiene " + años " años humanos");
+
+}
+
+End program
