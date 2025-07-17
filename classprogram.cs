@@ -19,17 +19,17 @@ class program
 class MostrarEdad(string lupe, int edad, int edadHumana, bool años){
 int edad = 4;
 int edadHumana = 7 ;
-bool años = , (edad * edadHumana) true ; 
+bool años (edad * edadHumana) ;true  
 
-	Console.WriteLine(lupe +, " tiene ", + años " años humanos");
+	Console.WriteLine(lupe, " tiene ", años " años humanos");
 
 
-class MostrarInfo(string filogonio, int edad, int edadHumana, bool años){
-int edad = 9;
-int edadHumana = 7 ;
-bool años = , (edad * edadHumana) true ; 
+class MostrarInfo(string filogonio, int edad02, int edadHumana02, bool años){
+int edad02 = 9;
+int edadHumana02 = 7 ;
+bool años (edad * edadHumana) ;true 
 
-	Console.WriteLine(filogonio + " tiene " + años " años humanos");
+	Console.WriteLine(filogonio, " tiene ", años " años humanos");
 
 }
 
